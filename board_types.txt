@@ -49,6 +49,8 @@ TARGET_HW_PDW_MAS_MAIN-V1              86
 TARGET_HW_ATL_MANTIS_EDU               97
 TARGET_HW_THE_PEACH_K1                212
 TARGET_HW_THE_PEACH_R1                213
+# TODO: Create actual id
+TARGET_HW_BLITZ_F7_AIO                200
 
 
 Reserved  PX4 [BL] FMU v5X.x           51
