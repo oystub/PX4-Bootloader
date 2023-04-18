@@ -1,3 +1,9 @@
+# Porting to iFlight Blitz F7 AIO
+https://shop.iflight-rc.com/BLITZ-Whoop-F7-AIO-Pro1927
+
+So far basically just started with kakutef7, and make changes by comparing the betaflight unified targets 
+https://github.com/betaflight/unified-targets
+
 # Bootloader for the Pixhawk board family
 
 [![GitHub Actions Status](https://github.com/PX4/PX4-Bootloader/workflows/Build%20and%20Deploy/badge.svg?branch=master)](https://github.com/PX4/PX4-Bootloader/actions?query=branch%3Amaster)
